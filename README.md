@@ -1,3 +1,4 @@
 # hello-world
 My first GitHub repository
 This is a read me in my first repository, "hello-world'
+My name is Dave Landis and I'm doing quick Git tutorial.
